@@ -1,0 +1,41 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+    padding-left: 60px;
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Quicksand', sans-serif;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.actions {
+    font-weight: bold;
+}
+
+.comments {
+    font-weight: normal;
+}
+
